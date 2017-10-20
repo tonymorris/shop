@@ -12,3 +12,4 @@
 * Tuna
 * Bacon
 * Salad
+* Dishwasher tablets
